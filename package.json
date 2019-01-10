@@ -1,0 +1,36 @@
+{
+  "name": "Nodeuce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "bower": "^1.8.4",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "gm": "^1.23.1",
+    "less": "^3.9.0",
+    "mongoose": "^5.4.3",
+    "nodemon": "^1.18.9",
+    "passport": "^0.4.0",
+    "phantomjs": "^2.1.7",
+    "q": "^1.5.1",
+    "request": "^2.88.0",
+    "sharp": "^0.21.1",
+    "sublime": "^1.2.1",
+    "underscore": "^1.9.1",
+    "validator": "^10.10.0",
+    "winston": "^3.1.0",
+    "ws": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
